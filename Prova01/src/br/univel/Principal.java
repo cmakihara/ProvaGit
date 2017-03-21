@@ -20,7 +20,7 @@ public class Principal extends JFrame{
 			this.setContentPane(js);
 			
 			
-		//	Exe02 modelo = new Exe02();
+			Ex02Model modelo = new Ex02Model();
 			table.setModel(new Ex02Model());
 			
 			
